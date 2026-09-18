@@ -1,16 +1,16 @@
-report_id,published_at,source,title,relevance_score
-TRN03133,2026-08-03,Open-source Research,Industrial protocol reconnaissance observed,0.9788885226922432
-TRN03008,2026-01-04,Open-source Research,Vendor access abused in OT intrusion,0.978085504726631
-TRN03096,2025-06-30,Open-source Research,Vendor access abused in OT intrusion,0.9726393320174405
-TRN03084,2025-06-22,Open-source Research,Campaign targets industrial operators,0.9704084370098396
-TRN03163,2026-02-22,Vendor Advisory,Vendor access abused in OT intrusion,0.968649228249943
-TRN03089,2025-12-15,Regional ISAC,Campaign targets industrial operators,0.9667634513068953
-TRN03109,2026-05-08,Vendor Advisory,Campaign targets industrial operators,0.9656242915408022
-TRN03037,2025-11-27,Commercial Intelligence,Energy-sector malware activity,0.9642758211084272
-TRN03159,2025-11-13,Commercial Intelligence,Industrial protocol reconnaissance observed,0.9636589913183158
-TRN03092,2026-04-25,Vendor Advisory,Campaign targets industrial operators,0.9635883601443634
-TRN03158,2025-08-08,Commercial Intelligence,Campaign targets industrial operators,0.9635482559623971
-TRN03142,2025-10-05,Regional ISAC,Campaign targets industrial operators,0.9633720718614075
-TRN03086,2026-06-20,Regional ISAC,Industrial protocol reconnaissance observed,0.9633109474376559
-TRN03004,2025-06-20,Regional ISAC,Industrial protocol reconnaissance observed,0.9624147434293193
-TRN03056,2025-11-28,Open-source Research,Industrial protocol reconnaissance observed,0.9623684936508562
+report id,published at,source,title,relevance score
+TRN03133,03/08/2026,Open-source Research,Industrial protocol reconnaissance observed,0.978888523
+TRN03008,04/01/2026,Open-source Research,Vendor access abused in OT intrusion,0.978085505
+TRN03096,30/06/2025,Open-source Research,Vendor access abused in OT intrusion,0.972639332
+TRN03084,22/06/2025,Open-source Research,Campaign targets industrial operators,0.970408437
+TRN03163,22/02/2026,Vendor Advisory,Vendor access abused in OT intrusion,0.968649228
+TRN03089,15/12/2025,Regional ISAC,Campaign targets industrial operators,0.966763451
+TRN03109,08/05/2026,Vendor Advisory,Campaign targets industrial operators,0.965624292
+TRN03037,27/11/2025,Commercial Intelligence,Energy-sector malware activity,0.964275821
+TRN03159,13/11/2025,Commercial Intelligence,Industrial protocol reconnaissance observed,0.963658991
+TRN03092,25/04/2026,Vendor Advisory,Campaign targets industrial operators,0.96358836
+TRN03158,08/08/2025,Commercial Intelligence,Campaign targets industrial operators,0.963548256
+TRN03142,05/10/2025,Regional ISAC,Campaign targets industrial operators,0.963372072
+TRN03086,20/06/2026,Regional ISAC,Industrial protocol reconnaissance observed,0.963310947
+TRN03004,20/06/2025,Regional ISAC,Industrial protocol reconnaissance observed,0.962414743
+TRN03056,28/11/2025,Open-source Research,Industrial protocol reconnaissance observed,0.962368494

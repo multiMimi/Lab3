@@ -1,6 +1,6 @@
-scenario_id,scenario_name,n_iterations,prob_reach_OT,prob_reach_safety_zone,mean_critical_assets_infected,mean_total_assets_infected,median_time_to_OT_steps,p95_total_assets_infected,abs_risk_reduction_OT,rel_risk_reduction_OT_pct
-S0,Current controls,1000,0.038,0.0,0.974,2.027,4.0,5.0,0.0,0.0
-S1,Patch vendor path,1000,0.002,0.0,0.264,1.267,4.0,2.0,0.036,94.7
-S2,Strengthen OT segmentation,1000,0.001,0.0,0.864,1.894,4.0,4.0,0.037,97.4
-S3,Rapid EDR isolation,1000,0.001,0.0,0.845,1.85,4.0,3.0,0.037,97.4
-S4,Combined controls,1000,0.0,0.0,0.257,1.257,,2.0,0.038,100.0
+scenario id,scenario name,n iterations,prob reach OT,prob reach safety zone,mean critical assets infected,mean_total_assets_infected,median time to OT steps,p95 total assets infected,abs risk reduction OT,rel risk reduction OT pct
+S0,Current controls,1000,0.038,0,0.974,2.027,4,5,0,0
+S1,Patch vendor path,1000,0.002,0,0.264,1.267,4,2,0.036,94.7
+S2,Strengthen OT segmentation,1000,0.001,0,0.864,1.894,4,4,0.037,97.4
+S3,Rapid EDR isolation,1000,0.001,0,0.845,1.85,4,3,0.037,97.4
+S4,Combined controls,1000,0,0,0.257,1.257,,2,0.038,100

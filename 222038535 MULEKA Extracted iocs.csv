@@ -1,4 +1,4 @@
-report_id,entity_type,entity_value,matched_ioc_id,feed_confidence,feed_first_seen,feed_tactic,analytical_relevance
+report id,entity type,entity value,matched ioc id,feed confidence,feed first seen,feed tactic,analytical relevance
 TRN00004,ipv4,198.51.100.5,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN00004,domain,node-4-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN00004,hash,37786edb666f352e99db,,,,,"Unconfirmed - internal-only entity, no external IOC match"
@@ -438,7 +438,7 @@ TRN00476,domain,node-476-sync.example,,,,,"Unconfirmed - internal-only entity, n
 TRN00476,hash,c93874c1439050bfce2c,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN00481,ipv4,198.51.100.42,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN00481,domain,node-481-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
-TRN00483,ipv4,198.51.100.44,IOC9003,High,2026-10-16,Command and Control,High - matched external IOC (high confidence)
+TRN00483,ipv4,198.51.100.44,IOC9003,High,16/10/2026,Command and Control,High - matched external IOC (high confidence)
 TRN00483,domain,node-483-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN00483,hash,08106a7acfdf22023415,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN00483,threat_actor,Red Kudu,,,,,"Unconfirmed - internal-only entity, no external IOC match"
@@ -1303,7 +1303,7 @@ TRN01359,hash,4b453c72348737da965d,,,,,"Unconfirmed - internal-only entity, no e
 TRN01359,threat_actor,Night Heron,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01361,ipv4,198.51.100.42,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01361,domain,node-1361-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
-TRN01363,ipv4,198.51.100.44,IOC9003,High,2026-10-16,Command and Control,High - matched external IOC (high confidence)
+TRN01363,ipv4,198.51.100.44,IOC9003,High,16/10/2026,Command and Control,High - matched external IOC (high confidence)
 TRN01363,domain,node-1363-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01363,malware,Sandstorm Loader,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01371,ipv4,198.51.100.52,,,,,"Unconfirmed - internal-only entity, no external IOC match"
@@ -1513,7 +1513,7 @@ TRN01580,hash,506161125129132a4c5d,,,,,"Unconfirmed - internal-only entity, no e
 TRN01580,threat_actor,Red Kudu,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01581,ipv4,198.51.100.42,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01581,domain,node-1581-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
-TRN01583,ipv4,198.51.100.44,IOC9003,High,2026-10-16,Command and Control,High - matched external IOC (high confidence)
+TRN01583,ipv4,198.51.100.44,IOC9003,High,16/10/2026,Command and Control,High - matched external IOC (high confidence)
 TRN01583,domain,node-1583-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01584,ipv4,198.51.100.45,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01584,domain,node-1584-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
@@ -1777,7 +1777,7 @@ TRN01798,ipv4,198.51.100.39,,,,,"Unconfirmed - internal-only entity, no external
 TRN01798,domain,node-1798-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01801,ipv4,198.51.100.42,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01801,domain,node-1801-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
-TRN01803,ipv4,198.51.100.44,IOC9003,High,2026-10-16,Command and Control,High - matched external IOC (high confidence)
+TRN01803,ipv4,198.51.100.44,IOC9003,High,16/10/2026,Command and Control,High - matched external IOC (high confidence)
 TRN01803,domain,node-1803-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01805,ipv4,198.51.100.46,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN01805,domain,node-1805-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
@@ -2108,11 +2108,11 @@ TRN03160,threat_actor,Red Kudu,,,,,"Unconfirmed - internal-only entity, no exter
 TRN03163,ipv4,198.51.100.84,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN03163,domain,node-3163-sync.example,,,,,"Unconfirmed - internal-only entity, no external IOC match"
 TRN03163,malware,Sandstorm Loader,,,,,"Unconfirmed - internal-only entity, no external IOC match"
-RPT9001,ipv4,203.0.113.77,IOC9001,High,2026-10-16,Initial Access,High - matched external IOC (high confidence)
-RPT9001,domain,maintenance-check.example,IOC9005,Medium,2026-10-14,Credential Access,Medium - matched external IOC (medium confidence)
-RPT9002,ipv4,198.51.100.44,IOC9003,High,2026-10-16,Command and Control,High - matched external IOC (high confidence)
-RPT9002,domain,desert-sync.example,IOC9002,High,2026-10-16,Command and Control,High - matched external IOC (high confidence)
+RPT9001,ipv4,203.0.113.77,IOC9001,High,16/10/2026,Initial Access,High - matched external IOC (high confidence)
+RPT9001,domain,maintenance-check.example,IOC9005,Medium,14/10/2026,Credential Access,Medium - matched external IOC (medium confidence)
+RPT9002,ipv4,198.51.100.44,IOC9003,High,16/10/2026,Command and Control,High - matched external IOC (high confidence)
+RPT9002,domain,desert-sync.example,IOC9002,High,16/10/2026,Command and Control,High - matched external IOC (high confidence)
 RPT9002,malware,Sandstorm Loader,,,,,"Unconfirmed - internal-only entity, no external IOC match"
-RPT9004,hash,8e50b5f71c8efa22abe51646264f41367451d4acc42134c8c2b787c3190bc393,IOC9004,High,2026-10-16,Execution,High - matched external IOC (high confidence)
+RPT9004,hash,8e50b5f71c8efa22abe51646264f41367451d4acc42134c8c2b787c3190bc393,IOC9004,High,16/10/2026,Execution,High - matched external IOC (high confidence)
 RPT9004,malware,Sandstorm Loader,,,,,"Unconfirmed - internal-only entity, no external IOC match"
-RPT9005,domain,maintenance-check.example,IOC9005,Medium,2026-10-14,Credential Access,Medium - matched external IOC (medium confidence)
+RPT9005,domain,maintenance-check.example,IOC9005,Medium,14/10/2026,Credential Access,Medium - matched external IOC (medium confidence)
